@@ -5,7 +5,7 @@
    - Other assets (icons, manifest): cache-first for speed/offline.
    Bumping CACHE_VERSION still purges old caches, but you no longer have to
    remember it for index.html to update. */
-const CACHE_VERSION = 'site-photos-v8';
+const CACHE_VERSION = 'site-photos-v9';
 
 const APP_SHELL = [
   './',
